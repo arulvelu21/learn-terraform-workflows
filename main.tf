@@ -21,6 +21,7 @@ provider "aws" {
   region = "us-west-2"
 }
 
+#Added the comments
 
 
 # Create an S3 bucket
